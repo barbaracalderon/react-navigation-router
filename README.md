@@ -1,6 +1,7 @@
 _This README.md file is in English and Portuguese. // Esse arquivo README.md está em Inglês e Português._
 
-## Em construção.
+## Em construção
+###  Aplicação simples para aprender e praticar a lib React Router.
 
 # PT: Página de Navegação em React.js: usando React Router
 
