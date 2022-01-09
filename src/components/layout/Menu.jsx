@@ -6,10 +6,10 @@ const Menu = props => (
         <nav>
             <ul>
                 <li>
-                    <a href="/">Início</a>
+                    <a href="/Home">Início</a>
                 </li>
                 <li>
-                    <a href="/">Sobre</a>
+                    <a href="/About">Sobre</a>
                 </li>
             </ul>
         </nav>
