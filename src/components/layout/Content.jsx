@@ -16,7 +16,6 @@ const Content = props => (
         <Routes>
             <Route path="/about" element={ <About /> } />
         </Routes>
-
     </main>
 )
 
