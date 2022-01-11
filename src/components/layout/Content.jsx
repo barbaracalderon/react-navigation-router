@@ -9,11 +9,7 @@ const Content = props => (
     <main className="Content">
         <Routes>
             <Route path="/home" element={ <Home /> } />
-        </Routes>
-        <Routes>
             <Route path="/param/:id" element={ <Param /> } />
-        </Routes>
-        <Routes>
             <Route path="/about" element={ <About /> } />
         </Routes>
     </main>
