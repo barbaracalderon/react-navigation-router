@@ -13,6 +13,14 @@ _This README.md file is in English and Portuguese. // Esse arquivo README.md est
 
 ## Caderno de Anotações
 
+### No Powershell
+
+```
+cd  pasta-onde-vai-ser-criado-projeto
+npx create-react-app 'nome-do-app'
+npm i react-router-dom
+```
+
 ### Navegação com Parâmetros
 
 Para referenciar um parâmetro no mundo do React Router, ou seja, para navegar com parâmetro, o código `path="/about/:id"` é importante. O `:id` é **uma variável**.
@@ -70,6 +78,14 @@ _Fim._
 ![navigation page](navigation.png)
 
 ## Notes 
+
+### In Powershell
+
+```
+cd  folder-where-project-will-be-created
+npx create-react-app 'app-name'
+npm i react-router-dom
+```
 
 ### Navigating with Parameters
 
